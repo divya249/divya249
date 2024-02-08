@@ -1,6 +1,6 @@
 
 <h1> Hey!!!! This is Divya -Data Anlyst</h1>
-🔭 I’m currently working on Portfolio Projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Advanced Queries,Dax ,Advanced Functions<br>💬 Ask me about # Data Analyst<br>
+🔭 I’m currently working on Portfolio Projects<br>🤝 🌱 I’m currently learning Advanced Queries,Dax ,Advanced Functions<br>💬 Ask me about # Data Analyst<br>
 
 
 ## 🌐 Socials:
