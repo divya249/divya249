@@ -1,6 +1,6 @@
 
 <h1> Hey!!!! This is Divya -Frontend Developer</h1>
-🔭 I’m currently working on Portfolio Projects<br>🤝 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,REACT JS,Dax<br>💬 Ask me about # Frontend tools<br>
+🔭 I’m currently working on Portfolio Projects<br>🤝 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,REACT JS,Bootstrap<br>💬 Ask me about # Frontend tools<br>
 
 
 ## 🌐 Socials:
